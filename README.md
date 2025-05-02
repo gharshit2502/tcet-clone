@@ -2,10 +2,7 @@
 
 This is a responsive front-end clone of the official [TCET](https://www.tcet.in) website, built using **HTML**, **CSS**, and **JavaScript**. The goal of this project was to replicate the user interface and design elements of the TCET portal for learning and demonstration purposes.
 
-## 🚀 Live Preview
 
-🌐 [View Project on GitHub Pages](https://your-username.github.io/tcet-clone/)  
-*(Replace with your actual URL after publishing)*
 
 ---
 
